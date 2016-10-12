@@ -142,6 +142,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
+- [Jets.js](http://nexts.github.io/Jets.js/) - Native CSS search engine
 
 **[⬆ back to top](#table-of-contents)**
 
