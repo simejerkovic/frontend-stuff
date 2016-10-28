@@ -143,6 +143,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 - [Jets.js](http://nexts.github.io/Jets.js/) - Native CSS search engine
+- [Fuse.js](http://fusejs.io/) - Lightweight fuzzy-search library
 
 **[⬆ back to top](#table-of-contents)**
 
