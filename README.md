@@ -197,6 +197,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Typeplate](http://typeplate.com/) - A typographic starter kit
 - [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 - [Icomoon](https://icomoon.io/) - Website to custom build fonts, useful for icons
+- [Golden Ratio Typography Calculator](https://pearsonified.com/typography/) - Discover the perfect typography for your website by entering your current font size and content width
 
 **[⬆ back to top](#table-of-contents)**
 
