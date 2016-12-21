@@ -178,7 +178,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 - [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
-- [Bootstrap Tab Collapse plugin](https://github.com/flatlogic/bootstrap-tabcollapse)
+- [bootstrap-tabcollapse](https://github.com/flatlogic/bootstrap-tabcollapse) - Bootstrap Tab Collapse plugin - Switches bootstrap tabs component to collapse for small screens
 
 **[⬆ back to top](#table-of-contents)**
 
